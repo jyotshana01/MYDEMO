@@ -1,14 +1,14 @@
-import java.util.scanner;
+
 
 public class calc {
     public static void main(String args[]) {
      int n1,n2,n3;
-     scanner input = new scanner(System.in);
+     input = new input (System.in);
      system.out.println("Enter First Number");
      n1 = input.nextInt();
-     system.out.println('Enter Second Number");
+     system.out.println("Enter Second Number");
      n2 = input.nextInt();
-     system.out.println('Choices Are:");
+     system.out.println("Choices Are:");
      system.out.println("2. Substraction");
      system.out.println("3. Multiplication");
      system.out.println("4. Division");
