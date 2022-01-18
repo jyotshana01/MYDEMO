@@ -1,6 +1,6 @@
 package fpackage;
 
-public class Fclass {
+public class Addition {
    public static void main(String[] args) {
 
      int a,b,c;

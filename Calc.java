@@ -1,6 +1,6 @@
 
 
-public class calc {
+public class Calc {
     public static void main(String args[]) {
      int n1,n2,n3;
      input = new input (System.in);
